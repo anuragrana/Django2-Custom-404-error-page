@@ -24,4 +24,4 @@ Step to setup:
 
 - Article URL:
 
-  http://thepythondjango.com/displaying-custom-404-error-page-not-found-page-in-django-2-0/
+  https://www.pythoncircle.com/post/564/displaying-custom-404-error-page-not-found-page-in-django-20/
